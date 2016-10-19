@@ -1,6 +1,6 @@
 # md5
-not written by myself
-it's a revised copy from github
+not written by myself  
+it's a revised copy on github  
 just 
 
 
